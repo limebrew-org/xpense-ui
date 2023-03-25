@@ -1,0 +1,2 @@
+export const XPENSE_APP_SERVICE_URL =
+	process.env.NEXT_PUBLIC_XPENSE_APP_SERVICE_URL
